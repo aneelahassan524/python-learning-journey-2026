@@ -1,0 +1,10 @@
+n1 = (input("Enter a number1:"))
+n2 = (input("Enter a number2:"))
+print("The type of n1:",type(n1))
+print("The type of n2:",type(n2))
+n1 = int(n1)
+n2 = int(n2)
+print("The type of n1:",type(n1))
+print("The type of n2:",type(n2))
+total = n1+n2
+print(f"The sum of two numbers:{total}")
