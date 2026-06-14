@@ -1,0 +1,7 @@
+sentence = input("Enter a sentence:")
+upper = sentence.upper()
+print(f"Sentence in upper case:{upper}")
+lower = sentence.lower()
+print(f"Sentence in lower case:{lower}")
+title = sentence.title()
+print(f"Sentence in title case:{title}")

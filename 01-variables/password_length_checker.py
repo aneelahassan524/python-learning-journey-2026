@@ -1,2 +1,2 @@
 password = input("Enter a password:")
-print(f"The length of password:{len(password)}")
+print(f"The length of a password:{len(password)}")
