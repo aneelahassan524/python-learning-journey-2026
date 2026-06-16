@@ -1,0 +1,5 @@
+name = input("Enter your name:")
+age = int(input("Enter your age:"))
+langauage = input("Enter a language:")
+values = (name,age,langauage)
+print(f"The values:{values}")

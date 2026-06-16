@@ -1,0 +1,12 @@
+name = input("Enter your name:")
+age = int(input("Enter your age:"))
+language = input("Enter your language:")
+company = input("Enter your company:")
+l1 = (name,age,language,company)
+print("FUTURE CODING ZONE")
+print(f"Name: {l1[0]}")
+print(f"Age: {l1[1]}")
+print(f"Favorite Language: {l1[2]}")
+print(f"Dream Company: {l1[3]}")
+message =  "\"Keep Coding Every Day!\""
+print(f"Message:\n\t{message}")
