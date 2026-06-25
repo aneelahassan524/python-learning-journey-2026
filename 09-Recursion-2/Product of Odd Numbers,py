@@ -1,0 +1,8 @@
+def product (n):
+    if(n==0):
+        return 0
+    if(n==1):
+        return 1
+    return n*product(n-2)
+p = product(7)
+print(f"Product of odd numbers:{p}")
