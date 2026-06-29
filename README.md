@@ -1,14 +1,19 @@
-# Python Learning Journey
+# Day 1 - Count Even Numbers
 
-This repository contains my Python learning journey.
+## Problem
+Count the even numbers in a list.
 
-## Topics Covered
+## Algorithm
+1. Create count = 0.
+2. Visit each number.
+3. If it is even, increase count.
+4. Print count.
 
+## Concepts Used
+- List
+- for loop
+- if statement
 - Variables
-- Strings
-- Escape Sequences
 
-## Goal
-
-To improve my Python programming skills and build a strong foundation in software development.
-More topics and projects will be added as I continue learning.
+## What I Learned
+Today I learned how to count items in a list using a for loop and an if statement.
