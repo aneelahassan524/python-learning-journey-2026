@@ -1,0 +1,37 @@
+# Problem:
+# Write a program to count how many even and odd numbers are in a list.
+
+# Human Thinking:
+# First, I take a list of numbers.
+# Then, I create two variables to count the even and odd numbers.
+# I check each number in the list.
+# If the number is divisible by 2 and its remainder is 0, I increase the even count.
+# Otherwise, I increase the odd count.
+# I repeat this process until all the numbers in the list are checked.
+# Finally, I display the total number of even and odd numbers.
+
+# Pseudocode:
+# Start
+# Take a list of numbers.
+# Set even_count = 0.
+# Set odd_count = 0.
+# For each number in the list:
+#     If number % 2 == 0:
+#         Increase even_count by 1.
+#     Else:
+#         Increase odd_count by 1.
+# Display even_count.
+# Display odd_count.
+# End
+
+#Python Code:
+numbers = [4, 7, 2, 9, 6, 11, 8]
+even_count = 0
+odd_count = 0 
+for number in numbers:
+    if(number%2==0):
+        even_count=even_count+1
+    else:
+        odd_count=odd_count+1
+print(f"Total Even Numbers in a List:{even_count}")           
+print(f"Total Odd Numbers in a List:{odd_count}")  
