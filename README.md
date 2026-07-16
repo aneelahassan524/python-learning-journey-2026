@@ -1,19 +1,46 @@
-# Day 1 - Count Even Numbers
+#  Hi, I'm Aneela Hassan
 
-## Problem
-Count the even numbers in a list.
+## Software Engineering Student | Python Developer
 
-## Algorithm
-1. Create count = 0.
-2. Visit each number.
-3. If it is even, increase count.
-4. Print count.
+Welcome to my GitHub!
 
-## Concepts Used
-- List
-- for loop
-- if statement
-- Variables
+I'm a Software Engineering student passionate about Python, problem-solving, and python development. This GitHub documents my learning journey, projects, and continuous growth as a developer.
 
-## What I Learned
-Today I learned how to count items in a list using a for loop and an if statement.
+## Currently Learning
+
+* Python Programming
+* Object-Oriented Programming (OOP)
+* Data Structures & Algorithms
+* Problem Solving
+* Backend Development with FastAPI (Next Goal)
+
+## Technologies & Tools
+
+* Python
+* Git & GitHub
+* VS Code
+
+## What You'll Find Here
+
+* Python practice programs
+* Logical thinking exercises
+* OOP practice
+* Mini projects
+* Learning notes
+* Future backend projects
+
+## 2026 Goals
+
+* Complete Intermediate Python
+* Master OOP
+* Learn FastAPI
+* Build backend projects
+* Create a strong developer portfolio
+* Prepare for internships
+
+## Learning Philosophy
+
+I believe programming is learned by building, practicing, making mistakes, and improving every day. Every repository on this profile represents a step forward in my journey.
+
+Thanks for visiting my profile!
+
